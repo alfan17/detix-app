@@ -1,14 +1,16 @@
 {
     "materi": [
       {
-        {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/00.png",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/00.mp3"
-      },
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi.mp3"
       },
       {
-        "image": "url gambar kelas satu",
-        "sound": "url suara"
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang.mp3"
+      },
+        {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga.mp3"
       }
     ],
     "latihan": [
