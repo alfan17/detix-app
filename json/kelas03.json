@@ -1,8 +1,10 @@
 {
     "materi": [
       {
-        "image": "url gambar kelas satu",
-        "sound": "url suara"
+        {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/00.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/00.mp3"
+      },
       },
       {
         "image": "url gambar kelas satu",
@@ -10,7 +12,46 @@
       }
     ],
     "latihan": [
-      "url gambar latihan kelas satu"
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/01.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/01.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/02.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/02.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/03.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/03.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/04.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/04.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/05.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/05.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/06.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/06.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/07.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/07.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/08.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/08.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/09.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/09.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/10.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/latihan/10.mp3"
+      }
     ],
     "ujian": [
       {
