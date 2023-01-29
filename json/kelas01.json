@@ -22,6 +22,7 @@
     "ujian": [
       {
         "image": "url gambar kelas tiga",
+        "sound": "url suara",
         "jawaban": "hasil jawaban kalo string ya string | kalau integer ya integer gapake petik"
       }
     ]
