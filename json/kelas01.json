@@ -1,75 +1,75 @@
 {
     "materi": [
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/00.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/00.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/01.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/01.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/02.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/02.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/03.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/03.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/04.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/04.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/05.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/05.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/06.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/06.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/07.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/07.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/08.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/08.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/09.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/09.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/10.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/10.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/tambah.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/tambah.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/kurang.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/kurang.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/kali.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/kali.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/bagi.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/bagi.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/persegi.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/persegi.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/persegi_panjang.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/persegi_panjang.png",
         "sound": "url suara"
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/materi/segitiga.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/materi/segitiga.png",
         "sound": "url suara"
       }
     ],
@@ -117,52 +117,52 @@
     ],
     "ujian": [
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/01.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/01.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/01.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/01.png",
         "jawaban": 8
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/02.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/02.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/02.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/02.png",
         "jawaban": 10
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/03.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/03.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/03.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/03.png",
         "jawaban": 13
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/04.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/04.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/04.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/04.png",
         "jawaban": 17
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/05.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/05.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/05.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/05.png",
         "jawaban": 7
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/06.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/06.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/06.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/06.png",
         "jawaban": 9
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/07.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/07.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/07.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/07.png",
         "jawaban": 11
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/08.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/08.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/08.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/08.png",
         "jawaban": 3
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/09.mp3",
-        "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/09.png",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/09.mp3",
+        "sound": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/09.png",
         "jawaban": 5
       },
       {
-        "image": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/10.mp3",
+        "image": "https://github.com/alfan17/detix-app/assets/kelas01/ujian/10.mp3",
         "sound": "https://github.com/alfan17/detix-app/blob/master/assets/kelas01/ujian/10.png",
         "jawaban": 6
       }
