@@ -1,7 +1,7 @@
 {
     "materi": [
       {
-        "image": "url gambar kelas satu",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/materi/01.png",
         "sound": "url suara"
       },
       {
@@ -10,7 +10,14 @@
       }
     ],
     "latihan": [
-      "url gambar latihan kelas satu"
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/latihan/01.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/latihan/01.mp3"
+      },
+      {
+        "image": "url gambar kelas satu",
+        "sound": "url suara"
+      }
     ],
     "ujian": [
       {
