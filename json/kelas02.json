@@ -1,0 +1,21 @@
+{
+    "materi": [
+      {
+        "image": "url gambar kelas satu",
+        "sound": "url suara"
+      },
+      {
+        "image": "url gambar kelas satu",
+        "sound": "url suara"
+      }
+    ],
+    "latihan": [
+      "url gambar latihan kelas satu"
+    ],
+    "ujian": [
+      {
+        "image": "url gambar kelas tiga",
+        "jawaban": "hasil jawaban kalo string ya string | kalau integer ya integer gapake petik"
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+[
+    {
+      "key": "Kelas01.json",
+      "kelas": "Kelas 1",
+      "menu": [
+        "Materi",
+        "Latihan",
+        "Ujian"
+      ]
+    },
+    {
+      "key": "Kelas02.json",
+      "kelas": "Kelas 2",
+      "menu": [
+        "Latihan",
+        "Ujian"
+      ]
+    },
+    {
+      "key": "Kelas03.json",
+      "kelas": "Kelas 3",
+      "menu": [
+        "Materi",
+        "Latihan",
+        "Ujian"
+      ]
+    }
+  ]
