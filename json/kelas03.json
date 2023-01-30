@@ -5,12 +5,32 @@
         "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi.mp3"
       },
       {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi1.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi1.mp3"
+      },
+      {
         "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang.png",
         "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang.mp3"
       },
-        {
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang1.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/persegi_panjang1.mp3"
+      },
+      {
         "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga.png",
         "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga1.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/segitiga1.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/kubus.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/kubus.mp3"
+      },
+      {
+        "image": "https://alfan17.github.io/detix-app/assets/kelas03/materi/balok.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas03/materi/balok.mp3"
       }
     ],
     "latihan": [
