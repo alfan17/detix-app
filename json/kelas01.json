@@ -101,53 +101,53 @@
     ],
     "ujian": [
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/01.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/01.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/01.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/01.mp3",
         "jawaban": 8
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/02.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/02.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/02.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/02.mp3",
         "jawaban": 10
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/03.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/03.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/03.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/03.mp3",
         "jawaban": 13
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/04.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/04.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/04.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/04.mp3",
         "jawaban": 17
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/05.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/05.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/05.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/05.mp3",
         "jawaban": 7
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/06.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/06.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/06.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/06.mp3",
         "jawaban": 9
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/07.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/07.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/07.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/07.mp3",
         "jawaban": 11
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/08.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/08.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/08.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/08.mp3",
         "jawaban": 3
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/09.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/09.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/09.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/09.mp3",
         "jawaban": 5
       },
       {
-        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/10.mp3",
-        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/10.png",
+        "image": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/10.png",
+        "sound": "https://alfan17.github.io/detix-app/assets/kelas01/ujian/10.mp3",
         "jawaban": 6
       }
     ]
